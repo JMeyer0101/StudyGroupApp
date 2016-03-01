@@ -6,11 +6,11 @@ Study Group Former
 
 1.1 Purpose
 
-The use case document describes the specification along with some requires of a console application Study Group Former (SGF). In addition, this document will describe how the program works and what requirements are necessary in the use case specification.
+The use case document describes the specification aand equirements for the application 'Study Group Former' (SGF). In addition, this document will describe how the program works and what requirements are necessary for each use case.
 
 1.2 Background
 
-Often times, students find it hard to meet new people in their classes, or find it difficult be able to connect with people of the same classes who are suffering from the same difficulty of the same topic of a course. This desktop application will provide a way for these individuals to get together, across different sections of a class and review the subject.
+Often times, students find it hard to meet new people in their classes, or find it difficult be able to connect with people with the same classes who are suffering from the same difficulty with the same topic of a course. This desktop application will provide a way for these individuals to get together across different sections of a class and review the subject.
 
 1.3 Definition, Acronyms, and Abbreviations
 
@@ -21,7 +21,7 @@ Often times, students find it hard to meet new people in their classes, or find 
 
 2.1 Current “System”
 
-Currently study groups are formed when students are presented with opportunity to introduce, meet, or talk with one another. Therefore, these are informally formed by an individual’s desire to have a group dedicated to do so.
+Currently study groups are formed when students are presented with opportunity to introduce, meet, or talk with one another. Therefore, these are informally created by an individual’s desire to have a group dedicated to studying.
 
 2.2 Actors
 
